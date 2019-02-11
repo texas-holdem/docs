@@ -2,7 +2,7 @@
 
 Texas hold'em is a beloved game, especially among friends.
 
-While gambling is prohibited in many countries(while profitable in many others),  
+Gambling is prohibited in many countries(while profitable in many others),  
 which makes it hard to find a trustworthy, cross-platform app to use.
 
 So we wanted to build one, with fully open sourced algorithm and pipeline,  
